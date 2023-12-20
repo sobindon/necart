@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "377662811526",
+    "project_id": "artguider-d29eb",
+    "storage_bucket": "artguider-d29eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377662811526:android:af43ad2b706e0623d99007",
+        "android_client_info": {
+          "package_name": "com.example.guideart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "377662811526-eb9pslhobsj413gder25venprr575lga.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOEqJd-Kuqk1WBAZh12-rbRguS7NjWbmw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "377662811526-eb9pslhobsj413gder25venprr575lga.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
